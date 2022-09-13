@@ -15,3 +15,6 @@ This gives intructions on deployment.
 ## How to Contribute
 
 Add as you see fit. 
+
+## Copyright
+2022 Git Training 
