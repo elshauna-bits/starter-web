@@ -16,5 +16,7 @@ This gives intructions on deployment.
 
 Add as you see fit. 
 
+Please fork this repository and issue a pull request. 
+
 ## Copyright
 2022 Git Training 
