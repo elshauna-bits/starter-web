@@ -19,4 +19,4 @@ Add as you see fit.
 Please fork this repository and issue a pull request. 
 
 ## Copyright
-2022 Git Training 
+2022 Git Training All rights reserved.
