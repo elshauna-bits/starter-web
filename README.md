@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work together. Adding a line f
 ## Introduction
 This is an introduction to Git
 
+Emergency commit
+
 ## Purpose
 
 Sample website with plenty of files for demos
